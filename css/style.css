@@ -1,0 +1,38 @@
+nav {
+    background-color: #f3f3f3;
+}
+
+.navItems {
+    display: inline-block;
+    padding: 24px;
+    background-color: #303030;
+    color: #fff;
+}
+
+.sidepannel {
+    float: left;
+    background-color: blue;
+    width: 29%;
+    height: 1000px;
+}
+.contentRight {
+    float: left;  
+    background-color: mediumturquoise; 
+    width: 70%; 
+    height: 1000px;
+}
+
+.sidePannelTop {
+    height: 25%;
+    background-color: coral;
+}
+
+.sidePannelBottom {
+    height: 75%;
+    background-color: deeppink;
+}
+
+.hamster {
+    float:left;
+    padding-right: 15px;
+}
